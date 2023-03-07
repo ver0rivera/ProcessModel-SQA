@@ -7,3 +7,10 @@ El repositorio contiene la estructura de la base de datos de la gestión de conf
 
 [`Documento de Administración de la configuración de software `](https://github.com/ver0rivera/ProcessModel-SQA/blob/main/Documentos/Administraci%C3%B3n%20de%20la%20Configuraci%C3%B3n%20de%20Software.pdf)
 
+
+- Manuel Antonio Cituk Martínez 
+- Jorge Teodoro Dawn Rodríguez 
+- Geovanna Fernanda De La Cruz Medina
+- Alma Angélica Ordoñez Sánchez 
+- Verónica Marilyn Rivera Manzanero
+
